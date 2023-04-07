@@ -1,2 +1,2 @@
-# transform
-Heterogeneous data type transtion, it's safe, lightweight and fast
+# tgo
+Heterogeneous data type transition, it's safe, lightweight and fast

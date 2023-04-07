@@ -1,11 +1,11 @@
 [package]
-name = "transform"
+name = "tgo"
 authors = ["atopx"]
 license = "Apache-2.0"
 readme = "README.md"
 version = "0.1.0"
 edition = "2021"
-repository = "https://github.com/atopx/transform"
+repository = "https://github.com/atopx/tgo"
 categories = ["encoding", "text-processing", "value-formatting"]
 keywords = ["transform", "type", "schema", "low-code", "tool"]
 description = "Heterogeneous data type transtion, it's safe, lightweight and fast"
